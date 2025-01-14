@@ -11,19 +11,6 @@ Welcome to my GitHub! I'm passionate about building impactful solutions that ble
 - 💡 Entrepreneur in the Making: Aiming to build solutions that leave a lasting impact.
 
 
-
- 🔧 My Projects
-- [EcoBin: Hygienic Pad Disposal] 
-  An IoT-enabled solution for safe and hygienic disposal of sanitary pads, promoting health and sustainability.
-
-- [Wearable Health Monitoring System] 
-  A predictive analytics-based system for real-time health monitoring and proactive care.
-
-- [AI-Powered Dynamic Braille Display]
-  A groundbreaking innovation to assist visually impaired individuals by converting digital text into tactile Braille in real-time.
-
-
-
 💻 Skills
 - Programming: Python, HTML, CSS, JavaScript  
 - Frameworks & Tools: Kivy, PyDroid3, Figma  
