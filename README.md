@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm passionate about building impactful solutions that ble
 
 
  🌐 Find Me Online
-- 🌟 Portfolio Website: [https://sivadurshika-g.github.io/Siva-Durshika-s-Portfolio-/]
+- 🌟 Portfolio Website: [http://siva-techie-portfolio.netlify.app]
 - 📫 Email: (mailto:sivadurshika22@example.com)  
 - 💼 LinkedIn: [My LinkedIn] (https://www.linkedin.com/in/siva-durshika-g-86141030a)
 - 🐱 GitHub: [Siva's GitHub](https://github.com/SivaDurshika-G)
